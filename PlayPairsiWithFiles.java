@@ -3,9 +3,6 @@
  COMP1406/1006 - Fall 2013
  Assignment 10 - Bonus 1
 
-Name: Cindy Gao
-Student Number: 100861300
-Date: December 9, 2013
 
  A test class that opens a test file called players.data.txt, intakes the data from the text file 
  and plays a number of games with the players inside the text files to keep track of the stats of 
