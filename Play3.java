@@ -3,9 +3,6 @@
  COMP1406/1006 - Fall 2013
  Assignment 10 - Problem 1
 
-Name: Cindy Gao
-Student Number: 100861300
-Date: December 9, 2013
 
  A testing class in which a fast player and a smart player play the card game.
  At the end of the game, a summary of the results is results of the game is printed.
