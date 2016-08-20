@@ -3,9 +3,6 @@
  COMP1406/1006 - Fall 2013
  Assignment 10 - Problem 1
 
-Name: Cindy Gao
-Student Number: 100861300
-Date: December 9, 2013
 
  A subclass of player that creates a fast player. A fastplayer start their turn by taking a card from the pile,then 
  immediately places a card on the pile by giving it to the judge. The card they put on the pile is the one that 
