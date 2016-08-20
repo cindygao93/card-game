@@ -3,9 +3,6 @@
  COMP1406/1006 - Fall 2013
  Assignment 10 - Problem 1
 
-Name: Cindy Gao
-Student Number: 100861300
-Date: December 9, 2013
 
  A class that creates a pile of cards and its associated methods.
  
