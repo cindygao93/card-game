@@ -3,9 +3,6 @@
  COMP1406/1006 - Fall 2013
  Assignment 10 - Problem 1
 
-Name: Cindy Gao
-Student Number: 100861300
-Date: December 9, 2013
 
  A subclass of player that creates a pairs player. A pairs player start their turn by taking at most 4 cards 
  from the pile, submits all the pairs they have and then places a card on the pile by giving it 
