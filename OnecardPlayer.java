@@ -3,9 +3,6 @@
  COMP1406/1006 - Fall 2013
  Assignment 10 - Problem 1
 
-Name: Cindy Gao
-Student Number: 100861300
-Date: December 9, 2013
 
  A subclass of player that creates a onecard player. A onecardplayer starts their turn by taking a card from 
  the pile, submits a pair(s) if they have it, then immediately places a card on the pile by giving it
