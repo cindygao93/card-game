@@ -3,10 +3,6 @@
  COMP1406/1006 - Fall 2013
  Assignment 10 - Problem 1
 
-Name: Cindy Gao
-Student Number: 100861300
-Date: December 9, 2013
-
  A class called Judge which starts and end the game, keeps track of the submitted pairs from 
  all players in a card game, keeps track of each players scores and declares the winner at 
  the end of the game.
