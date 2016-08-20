@@ -1,0 +1,10 @@
+cat
+smart
+0
+dog
+onecard
+1
+eel
+pairs
+0
+2
